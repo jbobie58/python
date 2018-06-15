@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-
 def checkNum(maxNum=101):
     for i in range(maxNum):
           value = ""
